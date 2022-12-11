@@ -1,9 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
 # Lineage Tree Reconstruction with macsGESTALT
 
 ## Background
@@ -64,7 +58,7 @@ Wagner, D. E., & Klein, A. M. (2020). Lineage tracing meets single-cell omics: o
 
 ## Maintainers
 
-Group 4 \@
+Group 4
 
 ## Contributing
 
