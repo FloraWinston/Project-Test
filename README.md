@@ -14,7 +14,7 @@ In this method, the static barcodes in each cell remain unchanged throughout the
 
 You can directly download this package from GitHub.
 
-## Seting up running environment
+## Setting up running environment
 
 | Package    | Version |
 |------------|---------|
